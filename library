@@ -1,0 +1,9 @@
+Ingredientsforlog: MoveTo: log Harvest: log
+Ingredientsforcobblestone: MoveTo: cobblestone Harvest: cobblestone
+Ingredientsforiron_ore: MoveTo: iron_ore Harvest: iron_ore
+Ingredientsforplanks: log
+Ingredientsforwooden_pickaxe: planks planks planks stick stick
+Ingredientsforstick: planks planks
+Ingredientsforfurnace: cobblestone cobblestone cobblestone cobblestone cobblestone cobblestone cobblestone cobblestone
+Ingredientsforiron_sword: iron_ingot iron_ingot stick
+Ingredientsforiron_ingot: iron_ore
